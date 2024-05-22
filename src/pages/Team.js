@@ -11,7 +11,7 @@ export default function Team() {
         <Card style={{ width: '17rem' }} className="me-2 outline-warning">
           <Card.Img style={{height: '300px'}} variant="top" src={require ("./images/t5.jpg")}/>
           <Card.Body  className="text-center">
-            <Card.Title>Anita Verma</Card.Title>
+            <Card.Title>Rohit Kumar</Card.Title>
             <Card.Text>
               UI Designer of the project
             </Card.Text>
@@ -23,7 +23,7 @@ export default function Team() {
         <Card style={{ width: '17rem' }} className="me-2">
           <Card.Img style={{height: '300px'}} variant="top" src={require("./images/t1.jpg")} />
           <Card.Body  className="text-center">
-            <Card.Title>Ajay Kumar</Card.Title>
+            <Card.Title>Rohit Kumar</Card.Title>
             <Card.Text>
               Database Designer
             </Card.Text>
@@ -34,7 +34,7 @@ export default function Team() {
         <Card style={{ width: '17rem' }} className="me-2">
           <Card.Img style={{height: '300px'}} variant="top" src={require("./images/t2.jpg")} />
           <Card.Body  className="text-center">
-            <Card.Title>Anand Singh</Card.Title>
+            <Card.Title>Rohit Kumar</Card.Title>
             <Card.Text>
               Backend Developer
             </Card.Text>
@@ -45,7 +45,7 @@ export default function Team() {
         <Card style={{ width: '17rem' }} className="me-2">
           <Card.Img style={{height: '300px'}} variant="top" src={require("./images/t3.jpg")}/>
           <Card.Body  className="text-center">
-            <Card.Title>Vijay Kumar</Card.Title>
+            <Card.Title>Rohit Kumar</Card.Title>
             <Card.Text>
               Frontend Developer
             </Card.Text>
@@ -56,7 +56,7 @@ export default function Team() {
         <Card style={{ width: '17rem' }} className="me-2">
           <Card.Img style={{height: '300px'}} variant="top" src={require("./images/t4.jpg")} />
           <Card.Body  className="text-center">
-            <Card.Title>Manoj Kumar</Card.Title>
+            <Card.Title>Rohit Kumar</Card.Title>
             <Card.Text>
               DevOps Developer
             </Card.Text>
