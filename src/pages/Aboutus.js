@@ -26,7 +26,7 @@ export default function Aboutus() {
   return (
     <div className="mt-3 mx-auto p-4 text-center" style={{width:"96%",background:"white"}}>
       <div className="fw-bold fs-2" id="aboutus">About Flat Rental</div>
-      <p className='px-5'> Launched in 2023, Flat Rental is India’s No.1 online Property marketplace to buy, sell, and rent residential and commercial properties. Adjudged as the most preferred real estate portal in India by various independent surveys.
+      <p className='px-5'> Launched in 2024, Flat Rental is India’s No.1 online Property marketplace to buy, sell, and rent residential and commercial properties. Adjudged as the most preferred real estate portal in India by various independent surveys.
       </p>
     </div>
   );
